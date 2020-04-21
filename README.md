@@ -32,6 +32,6 @@ gatewayworker_linux 是linux环境下用的
 ## 项目演示地址
 
 [用户端](http://whisper.gfdbm.com)  
-[客服端](https://whisper.gfdbm.com/service)
+[客服端](http://whisper.gfdbm.com/service)
 
 ### 客服后台账号/密码 客服小白/123456
