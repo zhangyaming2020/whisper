@@ -4,12 +4,12 @@ whisper客服系统，是采用thinkphp5+Gatewayworker开的高性能客服系�
 
 ***
 ## whisper客服系统交流群 
-QQ: 345146554
+QQ: 3124633839
 
 ***
 ## 打赏作者  
 支付宝
-![支付宝](https://gfdbm.com/data/attachment/zfb.png)  
+![支付宝](https://gfdbm.com/data/attachment/zfb_pay.png)  
 微信
 ![微信](https://gfdbm.com/data/attachment/wx.png) 
 
