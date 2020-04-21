@@ -9,9 +9,9 @@ QQ: 345146554
 ***
 ## 打赏作者  
 支付宝
-![支付宝](https://images.gitee.com/uploads/images/2019/0522/142641_89579267_552304.png)  
+![支付宝](https://gfdbm.com/data/attachment/zfb.png)  
 微信
-![微信](https://images.gitee.com/uploads/images/2019/0522/142636_9476f13d_552304.png) 
+![微信](https://gfdbm.com/data/attachment/wx.png) 
 
 ***  
 ## 重要通知
