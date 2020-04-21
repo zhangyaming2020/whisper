@@ -1,0 +1,2 @@
+php Applications\whisper\start_data.php Applications\whisper\start_register.php Applications\whisper\start_gateway.php Applications\whisper\start_businessworker.php
+pause

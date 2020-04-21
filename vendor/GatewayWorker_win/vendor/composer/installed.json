@@ -1,0 +1,203 @@
+[
+    {
+        "name": "workerman/workerman-for-win",
+        "version": "v3.3.90",
+        "version_normalized": "3.3.90.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/walkor/workerman-for-win.git",
+            "reference": "64994323f7ba50ff34f2eabaa0a4fd39a9845d81"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/walkor/workerman-for-win/zipball/64994323f7ba50ff34f2eabaa0a4fd39a9845d81",
+            "reference": "64994323f7ba50ff34f2eabaa0a4fd39a9845d81",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3"
+        },
+        "time": "2017-02-27T13:17:20+00:00",
+        "type": "project",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Workerman\\": "./"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "walkor",
+                "email": "walkor@workerman.net",
+                "homepage": "http://www.workerman.net",
+                "role": "Developer"
+            }
+        ],
+        "description": "An asynchronous event driven PHP framework for easily building fast, scalable network applications.",
+        "homepage": "http://www.workerman.net",
+        "keywords": [
+            "asynchronous",
+            "event-loop"
+        ]
+    },
+    {
+        "name": "workerman/gateway-worker-for-win",
+        "version": "v3.0.2",
+        "version_normalized": "3.0.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/walkor/GatewayWorker-for-win.git",
+            "reference": "d97bfb58adee8a2de200ac5bd142a2c252793d0c"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/walkor/GatewayWorker-for-win/zipball/d97bfb58adee8a2de200ac5bd142a2c252793d0c",
+            "reference": "d97bfb58adee8a2de200ac5bd142a2c252793d0c",
+            "shasum": ""
+        },
+        "require": {
+            "workerman/workerman-for-win": ">=3.1.8"
+        },
+        "time": "2017-03-04T10:24:56+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "GatewayWorker\\": "./src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "homepage": "http://www.workerman.net",
+        "keywords": [
+            "communication",
+            "distributed"
+        ]
+    },
+    {
+        "name": "workerman/mysql",
+        "version": "v1.0.1",
+        "version_normalized": "1.0.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/walkor/mysql.git",
+            "reference": "745d62528372e0ca7f1be05f029493b9fce2dc76"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://files.phpcomposer.com/files/walkor/mysql/745d62528372e0ca7f1be05f029493b9fce2dc76.zip",
+            "reference": "745d62528372e0ca7f1be05f029493b9fce2dc76",
+            "shasum": ""
+        },
+        "require": {
+            "ext-pdo": "*",
+            "ext-pdo_mysql": "*",
+            "php": ">=5.3"
+        },
+        "time": "2017-03-18T01:48:33+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Workerman\\MySQL\\": "./src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "description": "Long-living MySQL connection for daemon.",
+        "homepage": "http://www.workerman.net",
+        "keywords": [
+            "mysql",
+            "pdo",
+            "pdo_mysql"
+        ]
+    },
+    {
+        "name": "workerman/workerman",
+        "version": "v3.5.6",
+        "version_normalized": "3.5.6.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/walkor/Workerman.git",
+            "reference": "46a77574a5ca39def6dec51ddf350cf50daab309"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://files.phpcomposer.com/files/walkor/Workerman/46a77574a5ca39def6dec51ddf350cf50daab309.zip",
+            "reference": "46a77574a5ca39def6dec51ddf350cf50daab309",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3"
+        },
+        "suggest": {
+            "ext-event": "For better performance. "
+        },
+        "time": "2018-04-11T11:25:52+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Workerman\\": "./"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "walkor",
+                "email": "walkor@workerman.net",
+                "homepage": "http://www.workerman.net",
+                "role": "Developer"
+            }
+        ],
+        "description": "An asynchronous event driven PHP framework for easily building fast, scalable network applications.",
+        "homepage": "http://www.workerman.net",
+        "keywords": [
+            "asynchronous",
+            "event-loop"
+        ]
+    },
+    {
+        "name": "workerman/globaldata",
+        "version": "v1.0.2",
+        "version_normalized": "1.0.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/walkor/GlobalData.git",
+            "reference": "ea3eca7b351693b4fb8580e7b351f12dd28c78fe"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://files.phpcomposer.com/files/walkor/GlobalData/ea3eca7b351693b4fb8580e7b351f12dd28c78fe.zip",
+            "reference": "ea3eca7b351693b4fb8580e7b351f12dd28c78fe",
+            "shasum": ""
+        },
+        "require": {
+            "workerman/workerman": ">=3.3.0"
+        },
+        "time": "2016-06-02T06:35:44+00:00",
+        "type": "project",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "GlobalData\\": "./src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "homepage": "http://www.workerman.net"
+    }
+]
