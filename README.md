@@ -27,3 +27,11 @@ gatewayworker_linux 是linux环境下用的
 [whisper文档](https://www.kancloud.cn/nickbai/whisper/552736)
 
 ### 很重要的一点，开源版本仅供学习参考使用，切勿商用（包括但不限于在自己的网站上使用，二次开发出售等），商用请授权！
+
+
+## 项目演示地址
+
+[用户端](http://whisper.gfdbm.com)  
+[客服端](https://whiper.gfdbm.com/service)
+
+### 客服后台账号/密码 客服小白/123456
