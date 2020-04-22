@@ -1,6 +1,6 @@
 ## whsiper
 whisper客服系统，是采用thinkphp5+Gatewayworker开的高性能客服系统  
-欢迎您给我打星，更多的内容请进入官网查看
+欢迎您给我打星，更多的内容请进入官网查看！
 
 ***
 ## whisper客服系统交流群 
