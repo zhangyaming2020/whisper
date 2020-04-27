@@ -17,13 +17,17 @@ class Index extends Controller
     }
     public function index()
     {
+        /*
         //H+后台主题模板：https://demo.demohuo.top/modals/40/4078/demo/
-        /*echo ShowRedisKey::carInList();
-        $redis_list_obj = RedisConnector::connRedis('whisper');
-
-        //先设置，然后再把set注释输出get测试
-        $redis_list_obj->set('redistest',"测试redis");
-        echo $redis_list_obj->get('redistest');*/
+        $redis = RedisConnector::connRedis('whisper');
+        $json =json_encode(array(
+            'name'=>'规格化',
+            'age'=>2
+        ));
+// This first case: hash 值不存在
+        $redis -> hSet('myhash','favorite_fruit',$json);
+        var_dump($redis -> hGet('myhash','favorite_fruit'));    // string
+        exit;//*/
         return $this->fetch();
     }
 
